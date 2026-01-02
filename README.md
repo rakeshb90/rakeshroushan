@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am currently working in Verint System.<br>I am collaboration in Real Time Application.<br>I am learning Go Language. Proficient in Reactive Java.
+Hi, Myself Rakesh
+
+I am working as Software Engineer at Verint India Private Limited in Real Time Agent Assistance team.
+
+I have done my graduation from IIT Guwahati. I have spent 5+ years in developing reliable and scalable applications in the software development area.I am having experience in backend development specializing in API design, API development and API integration with Spring boot , Reactive Java and MySQL.
+
+I have worked in service base as well as product base MNC which help me to learn development and maintenance of product with respect to customer demand and provide me to explore new tools and technology as per products requirements.
+
+ I love to learn new things and update my skills . I am self motivated and team friendly as I have worked as Head of Hospitality in Alcheringa 2018 (Annual cultural festival of IIT Guwahati).
 
 
 ## 🌐 Socials:
